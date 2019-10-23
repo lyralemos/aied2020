@@ -5,13 +5,13 @@ html, body, #app {
 }
 
 .btn-primary{
-    background-color: #149dcc;
-    border-color: #149dcc
+    background-color: #006432;
+    border-color: #006432
 }
 
 .btn-primary:hover{
-    background-color: #0d6786 !important;
-    border-color: #0d6786 !important;
+    background-color: #0fa257 !important;
+    border-color: #0fa257 !important;
 }
 
 .navbar{
@@ -38,7 +38,7 @@ html, body, #app {
 
 .home .cta{
     height: 100vh;
-    background-image: url('ifrane2.jpg');
+    background-image: url('ifrane.jpg');
     background-size: cover;
     position: relative;
 }
@@ -77,7 +77,7 @@ html, body, #app {
     border-radius: 100px;
     padding: 1rem 3rem;
     margin: .4rem .8rem !important;
-    background-color: #0d7540;
+    background-color: #006432;
 }
 .home .data .btn:hover{
     background-color: #0fa257;

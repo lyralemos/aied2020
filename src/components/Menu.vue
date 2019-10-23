@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="#">
-            <img src="../assets/logo.png" alt="AEID2020" title="" style="height: 3.8rem;">
+            <img src="../assets/aied2020-white.png" alt="AIED2020" title="" style="height: 3.8rem;">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
