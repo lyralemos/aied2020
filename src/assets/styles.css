@@ -145,3 +145,19 @@ html, body, #app {
     background-color: #2e2e2e;
     padding: 90px 0;
 }
+
+
+section.title{
+    background-color: #006331;
+    color:#fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+
+section.body{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #ffffff;
+}
