@@ -6,7 +6,9 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "push-dir --dir=dist --branch=gh-pages"
+    "add-domain": "echo \"aied2020.nees.com.br\" > dist/CNAME",
+    "prepare": "npm run build;npm run add-domain",
+    "deploy": "npm rum prepare;push-dir --dir=dist --branch=gh-pages"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
