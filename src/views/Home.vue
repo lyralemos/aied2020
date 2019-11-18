@@ -10,8 +10,8 @@
         <h2 class="pb-3">Al Akhawayn University - Ifrane - Morocco</h2>
 
         <div class="actions">
-          <a href="" class="btn btn-md btn-secondary">Conference Program</a>
-          <a href="" class="btn btn-md btn-secondary">Call for Participation</a>
+          <router-link :to="{name:'program'}" class="btn btn-md btn-secondary">Conference Program</router-link>
+          <router-link :to="{name:'general'}" class="btn btn-md btn-secondary">Call for Participation</router-link>
         </div>
       </div>
     </div>
@@ -19,20 +19,19 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <h1 class="text-center">Education for All in the XXI Century</h1>
+            <h1 class="text-center">Augmented Intelligence to Empower Education</h1>
             <p>
-              The AIED 2020 conference theme will be “Education for All in the XXI Century”. 
-              Inequity within and between countries continues to grow in the industrial age. 
-              Intelligent information technologies have been proposed to reduce this difference, 
-              but may instead increase the digital divide if applied without reflection. 
-              Education plays a central role in this problem, as it is one of the key approaches 
-              that could help to reduce this difference. However, further work is needed to 
-              understand how to provide equitable education for all, and many questions remain 
-              to be answered. What are the main barriers to providing educational opportunities 
-              to underserved teachers and learners? How can AI and advanced technologies help 
-              overcome these difficulties? How can this work be done ethically? In this conference 
-              we gather the collective intelligence of the community to think about this problem 
-              and provide innovative and creative solutions.
+              The AIED 2020 conference theme will be “Augmented Intelligence to Empower Education”. 
+              As AI in Education systems get more mature and are implemented at scale in real-world 
+              contexts, the value of using AI systems in the service of human decision making, rather 
+              than automated personalisation, becomes more apparent than ever. While this paradigm 
+              of augmented intelligence is not new to the field,solid theoretical and/or empirical 
+              work in the area is limited. Further work is needed to understand the balance of human 
+              and artificial aspects in intelligence systems that involve human and AI partnerships. 
+              Developing and implementing AI-human hybrid systems requires new research and many 
+              questions remain to be answered. In this conference, we invite the community to think 
+              about intelligence augmentation opportunities that would empower key stakeholders of 
+              education and provide innovative and creative solutions supported with empirical evidence.
             </p>
           </div>
         </div>
@@ -90,7 +89,7 @@ export default {
   methods: {
     startTimer() {
       var self = this
-      var countDownDate = new Date("Jan 7, 2020 00:00:00").getTime();
+      var countDownDate = new Date("Jul 7, 2020 00:00:00").getTime();
 
       var x = setInterval(function () {
 

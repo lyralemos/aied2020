@@ -161,3 +161,8 @@ section.body{
     padding-bottom: 60px;
     background-color: #ffffff;
 }
+
+section.body h3{
+    padding: 20px 0;
+    margin: 0;
+}

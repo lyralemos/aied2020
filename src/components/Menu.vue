@@ -30,9 +30,24 @@
                         Calls
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">General Call</a>
-                        <a class="dropdown-item" href="#">Call for industry papers</a>
-                        <a class="dropdown-item" href="#">Call for tutorials ans workshops</a>
+                        <router-link
+                            :to="{ name: 'general' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">General Call</a>
+                        </router-link>
+                        <router-link
+                            :to="{ name: 'industry' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">Call for industry papers</a>
+                        </router-link>
+                        <router-link
+                            :to="{ name: 'tutorials' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">Call for tutorials and workshops</a>
+                        </router-link>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -40,9 +55,43 @@
                         Program
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Main conference program</a>
-                        <a class="dropdown-item" href="#">Proceddings</a>
-                        <a class="dropdown-item" href="#">Call for tutorials ans workshops</a>
+                        <router-link
+                            :to="{ name: 'program' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">Main conference program</a>
+                        </router-link>
+                        <router-link
+                            :to="{ name: 'proceedings' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">Proceedings</a>
+                        </router-link>
+                        <router-link
+                            :to="{ name: 'keynotes' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">Keynotes</a>
+                        </router-link>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" 
+                        href="#" 
+                        id="navbarDropdown" 
+                        role="button" 
+                        data-toggle="dropdown" 
+                        aria-haspopup="true" 
+                        aria-expanded="false">
+                        Organization
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <router-link
+                            :to="{ name: 'committee' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">Organizing Committee</a>
+                        </router-link>
                     </div>
                 </li>
             </ul>
