@@ -101,3 +101,17 @@
         </div>
     </nav>
 </template>
+
+<script>
+import $ from 'jquery'
+export default {
+    name: 'Menu',
+    mounted() {
+        $('.navbar-nav .nav-item, .navbar-nav .dropdown-item')
+            .not('.dropdown')
+            .on('click', function(){
+                $('.navbar-collapse').collapse('hide');
+            });
+    }
+}
+</script>
