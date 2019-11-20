@@ -67,7 +67,7 @@
                             rights and responsibilities, data collection, management and dissemination.
                         </li>
                         <li>
-                            Design, use, and evaluation of human-AI hybrid systems for learning; Research that explores the potential of human-AI 
+                            <b>Design, use, and evaluation of human-AI hybrid systems for learning:</b> Research that explores the potential of human-AI 
                             interaction in educational contexts; Systems and approaches in which educational stakeholders and AI tools build upon 
                             each other’s complementary strengths to achieve educational outcomes and/or improve mutually. 
                         </li>

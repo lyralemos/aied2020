@@ -25,7 +25,7 @@
               As AI in Education systems get more mature and are implemented at scale in real-world 
               contexts, the value of using AI systems in the service of human decision making, rather 
               than automated personalisation, becomes more apparent than ever. While this paradigm 
-              of augmented intelligence is not new to the field,solid theoretical and/or empirical 
+              of augmented intelligence is not new to the field, solid theoretical and/or empirical 
               work in the area is limited. Further work is needed to understand the balance of human 
               and artificial aspects in intelligence systems that involve human and AI partnerships. 
               Developing and implementing AI-human hybrid systems requires new research and many 
