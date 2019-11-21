@@ -5,5 +5,11 @@
         <li>Workshop & Tutorial Proposals: March 15, 2020, 11:59pm PST</li>
         <li>Doctoral Consortium papers: March 15, 2020, 11:59pm PST</li>
         <li>Interactive Events: April 29, 2020, 11:59pm PST</li>
+        <br />
+        <ul>
+            <li>Meta-reviews: April 8, 2020, 11:59pm PST</li>
+            <li>Notification: April 22, 2020, 11:59pm PST</li>
+            <li>Camera-ready: May 6, 2020, 11:59pm PST</li>
+        </ul>
     </ul>
 </template>
