@@ -6,7 +6,7 @@
         <!-- <h1 class="pb-3">AIED 2020</h1> -->
         <img src="../assets/aied2020-white.png" alt="AIED2020" title="" style="max-width:100%; margin-bottom:20px">
         <h2 class="pb-3">The 20th International Conference on Artificial Intelligence in Education</h2>
-        <h2 class="pb-3">7th - 10th July 2020</h2>
+        <h2 class="pb-3">6th - 10th July 2020</h2>
         <h2 class="pb-3">Al Akhawayn University - Ifrane - Morocco</h2>
 
         <div class="actions">
