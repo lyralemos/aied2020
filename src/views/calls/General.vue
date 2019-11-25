@@ -12,7 +12,7 @@
             <div class="container">
                 <div class="col-12">
                     <p>
-                        The 2020 conference on Artificial Intelligence in Education will take place in Ifrane (Morocco), between July 7 and 10.
+                        The 2020 conference on Artificial Intelligence in Education will take place in Ifrane (Morocco), between July 6 and 10.
                     </p>
                     <p>
                         The AIED 2020 conference theme will be “Augmented Intelligence to Empower Education”.  As AI in Education systems get 
