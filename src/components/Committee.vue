@@ -10,7 +10,7 @@
         
         <ul>
             <li>Danielle McNamara. Arizona State University</li>
-            <li>Ido Roll. Israel Institute of Technology</li>
+            <li>Ido Roll. Technion Israel Institute of Technology</li>
         </ul>
         
         <h4>Local Organizing Chair</h4>
