@@ -17,6 +17,37 @@
                         <a class="nav-link" :href="href" @click="navigate">Home</a>
                     </li>
                 </router-link>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        About Ifrane
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <router-link
+                            :to="{ name: 'town' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">The Town</a>
+                        </router-link>
+                        <router-link
+                            :to="{ name: 'university' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">The University</a>
+                        </router-link>
+                        <router-link
+                            :to="{ name: 'accommodation' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">Accommodation</a>
+                        </router-link>
+                        <router-link
+                            :to="{ name: 'culture' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">Culture and Food</a>
+                        </router-link>
+                    </div>
+                </li>
                 <router-link
                     to="/dates"
                     v-slot="{ href, route, navigate, isActive, isExactActive }"

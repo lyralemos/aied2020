@@ -52,5 +52,25 @@ export default new Router({
       name: 'committee',
       component: () => import('./views/organizing/Committee.vue')
     },
+    {
+      path: '/about/town',
+      name: 'town',
+      component: () => import('./views/about/Town.vue')
+    },
+    {
+      path: '/about/university',
+      name: 'university',
+      component: () => import('./views/about/University.vue')
+    },
+    {
+      path: '/about/accommodation',
+      name: 'accommodation',
+      component: () => import('./views/about/Accommodation.vue')
+    },
+    {
+      path: '/about/culture',
+      name: 'culture',
+      component: () => import('./views/about/Culture.vue')
+    },
   ]
 })
