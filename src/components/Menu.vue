@@ -125,6 +125,14 @@
                         </router-link>
                     </div>
                 </li>
+                <router-link
+                    :to="{ name: 'sponsorship' }"
+                    v-slot="{ href, route, navigate, isActive, isExactActive }"
+                    >
+                    <li :class=" ['nav-item', isExactActive && 'active']">
+                        <a class="nav-link" :href="href" @click="navigate">Sponsorship</a>
+                    </li>
+                </router-link>
             </ul>
             <div class="navbar-text">
                 <button class="btn btn-primary">Registration</button>

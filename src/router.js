@@ -72,5 +72,10 @@ export default new Router({
       name: 'culture',
       component: () => import('./views/about/Culture.vue')
     },
+    {
+      path: '/sponsorship',
+      name: 'sponsorship',
+      component: () => import('./views/Sponsorship.vue')
+    },
   ]
 })
