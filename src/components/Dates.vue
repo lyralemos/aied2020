@@ -1,7 +1,7 @@
 <template>
     <div>
         <ul>
-            <li>Abstract for Full Papers and Short Papers: Feb, 20, 2020 1:59pm PST</li>
+            <li>Abstract for Full Papers and Short Papers: Feb, 20, 2020 11:59pm PST</li>
             <li>Full Papers, Short Papers Industry Papers: Feb 27, 2020, 11:59pm PST</li>
             <li>Workshop & Tutorial Proposals: March 15, 2020, 11:59pm PST</li>
             <li>Doctoral Consortium papers: March 15, 2020, 11:59pm PST</li>
