@@ -53,6 +53,11 @@ export default new Router({
       component: () => import('./views/organizing/Committee.vue')
     },
     {
+      path: '/organizing/members',
+      name: 'members',
+      component: () => import('./views/organizing/Members.vue')
+    },
+    {
       path: '/about/town',
       name: 'town',
       component: () => import('./views/about/Town.vue')

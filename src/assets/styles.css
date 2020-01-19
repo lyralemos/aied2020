@@ -4,6 +4,14 @@ html, body, #app {
     font-family: 'Rubik', sans-serif;
 }
 
+a{
+    color: #149dcc;
+}
+
+a:hover{
+    color: #149dcc
+}
+
 .btn-primary{
     background-color: #006432;
     border-color: #006432

@@ -123,6 +123,12 @@
                             >
                             <a class="dropdown-item" :href="href" @click="navigate">Organizing Committee</a>
                         </router-link>
+                        <router-link
+                            :to="{ name: 'members' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">PC members and reviewers</a>
+                        </router-link>
                     </div>
                 </li>
                 <router-link
