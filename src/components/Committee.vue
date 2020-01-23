@@ -37,6 +37,7 @@
         <ul>
             <li>Alexandra Cristea, Durham University, UK</li>
             <li>Mingyu Feng, WestEd, USA</li>
+            <li>Richard Tong Squirrel AI, China</li>
         </ul>
         
         <h4>Doctoral Consortium Chairs</h4>
@@ -48,7 +49,7 @@
         <h4>Industry & Innovation Chairs</h4>
         <ul>
             <li>Elle Yuan Wang, ASU EdPlus, USA</li>
-            <li>Richard Tong and Dr. Wei Cui Squirrel AI, China</li>
+            <li>Dr. Wei Cui Squirrel AI, China</li>
         </ul>
         
     </div>
