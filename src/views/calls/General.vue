@@ -132,6 +132,17 @@
                         <li>Interactive Events (2 pages)</li>
                     </ul>
 
+                    <p>
+                        Authors should consult Springer’s 
+                        <a href="ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf">
+                            authors’ guidelines
+                        </a> 
+                        and use their proceedings templates, either for 
+                        <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">LaTeX</a> or for 
+                        <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip">Word</a>, for the 
+                        preparation of their papers.
+                    </p>
+
                     <h3>SUBMISSION DATES</h3>
                     <Dates />
 
