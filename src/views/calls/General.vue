@@ -139,8 +139,16 @@
                         </a> 
                         and use their proceedings templates, either for 
                         <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">LaTeX</a> or for 
-                        <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip">Word</a>, for the 
-                        preparation of their papers.
+                        <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip">Word</a>, 
+                        for the preparation of their papers. Springer encourages authors to include their 
+                        <a href="https://goo.gl/hbsa4D">
+                            ORCIDs
+                        </a>
+                        in their papers. In addition, the corresponding author of each paper, acting on behalf of 
+                        all of the authors of that paper, must complete and sign a Consent-to-Publish form. The 
+                        corresponding author signing the copyright form should match the corresponding author 
+                        marked on the paper. Once the files have been sent to Springer, changes relating to the 
+                        authorship of the papers cannot be made.
                     </p>
 
                     <h3>SUBMISSION DATES</h3>
