@@ -39,9 +39,15 @@
                     <p>Proposals for this track should be 2-4 pages.</p>
                     
                     <h3>Important Dates</h3>
-                        <ul>
-                            <li>Industry Papers: Feb 27, 2020, 11:59pm PST</li>
-                        </ul>
+                    <ul>
+                        <li>Industry Papers: March 15, 2020, 11:59pm PST</li>
+                    </ul>
+
+                    <h3>Industry & Innovation Chairs</h3>
+                    <ul>
+                        <li>Elle Yuan Wang, ASU EdPlus, USA</li>
+                        <li>Dr. Wei Squirrel Al, China</li>
+                    </ul>
                 </div>
             </div>
         </section>
