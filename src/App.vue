@@ -15,7 +15,6 @@
     </div>
   </div>
 </template>
-
 <script>
 import Menu from '@/components/Menu'
 export default {
