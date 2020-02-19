@@ -20,6 +20,9 @@
 import Menu from '@/components/Menu'
 export default {
   name: 'App',
-  components:{Menu}
+  components:{Menu},
+  created() {
+    localStorage.clear()
+  }
 }
 </script>

@@ -71,6 +71,18 @@
         </div>
       </div>
     </div>
+    <div class="shadow hide"></div>
+    <div class="popup hide">
+        <div class="head">Attention!</div>
+
+        <p>Following the recent travel restrictions imposed by some governments due to the Covid-19 Coronavirus, the AIED organising committee have taken the unprecedented step of allowing papers submitted from affected areas to present remotely, should their paper be accepted. Accepted papers will be included in the proceedings.</p>
+        <p><b>Please note, the AIED community thrives on our annual coming together to share ideas and learn from one another. This idea of remote presentation does not substitute from the substantial benefit of attending the conference in person - and does not set a precedent for the future. We urge those able to travel to still do so.</b></p>
+        <p>If you are living in an area affected by a travel ban and intend to submit a paper, please email <a href="events@suklaa.org">events@suklaa.org</a> with names and places of residence of all authors included on your paper.</p>
+        <p>There will be a lesser registration fee for remote presentation and inclusion in conference proceedings. Please check with your university that they will support the cost of your remote participation due to these extenuating circumstances.</p>
+        <p><b>This will only apply if travel bans are still in place by April 22nd 2020.</b></p>
+
+        <a href="#" class="btn btn-primary pull-right" @click="close()">Close</a>
+    </div>
   </div>
 </template>
 
@@ -110,10 +122,66 @@ export default {
           clearInterval(x);
         }
       }, 1000);
+    },
+    close() {
+        const hide = document.querySelectorAll(".popup, .shadow")
+        hide.forEach(function (h) {
+            h.classList.add('hide')
+        })
+        const body = document.getElementsByTagName('body')[0]
+        body.style.overflow = ''
+        localStorage.setItem('closed', true)
+    },
+    lockPage() {
+        const closed = localStorage.getItem('closed')
+        if (!closed) {
+            const hide = document.querySelectorAll(".popup, .shadow")
+            hide.forEach(function (h) {
+                h.classList.remove('hide')
+            })
+            const body = document.getElementsByTagName('body')[0]
+            body.style.overflow = 'hidden'
+        }
     }
   },
   mounted() {
     this.startTimer()
+    this.lockPage()
+  },
+  created() {
   }
 }
 </script>
+
+<style scoped>
+.shadow{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    top:0;
+    z-index: 1899;
+    opacity: .5;
+}
+
+.hide{display: none}
+
+.popup{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    background-color: #fff;
+    padding: 15px;
+    z-index: 1900;
+    transform: translate(-50%, -50%);
+}
+
+.popup .head{
+    background-color: #c1272d !important;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+</style>
