@@ -33,6 +33,11 @@ export default new Router({
       component: () => import('./views/calls/Tutorials.vue')
     },
     {
+      path: '/calls/doctorial',
+      name: 'doctorial',
+      component: () => import('./views/calls/Doctorial.vue')
+    },
+    {
       path: '/program/main',
       name: 'program',
       component: () => import('./views/program/Program.vue')

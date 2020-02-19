@@ -79,6 +79,12 @@
                             >
                             <a class="dropdown-item" :href="href" @click="navigate">Call for tutorials and workshops</a>
                         </router-link>
+                        <router-link
+                            :to="{ name: 'doctorial' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">Doctoral Consortium</a>
+                        </router-link>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
