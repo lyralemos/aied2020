@@ -77,7 +77,6 @@
 
         <p>Following the recent travel restrictions imposed by some governments due to the Covid-19 Coronavirus, the AIED organising committee have taken the unprecedented step of allowing papers submitted from affected areas to present remotely, should their paper be accepted. Accepted papers will be included in the proceedings.</p>
         <p><b>Please note, the AIED community thrives on our annual coming together to share ideas and learn from one another. This idea of remote presentation does not substitute from the substantial benefit of attending the conference in person - and does not set a precedent for the future. We urge those able to travel to still do so.</b></p>
-        <p>If you are living in an area affected by a travel ban and intend to submit a paper, please email <a href="events@suklaa.org">events@suklaa.org</a> with names and places of residence of all authors included on your paper.</p>
         <p>There will be a lesser registration fee for remote presentation and inclusion in conference proceedings. Please check with your university that they will support the cost of your remote participation due to these extenuating circumstances.</p>
         <p><b>This will only apply if travel bans are still in place by April 22nd 2020.</b></p>
 
