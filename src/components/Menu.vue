@@ -77,7 +77,7 @@
                             :to="{ name: 'tutorials' }"
                             v-slot="{ href, route, navigate, isActive, isExactActive }"
                             >
-                            <a class="dropdown-item" :href="href" @click="navigate">Call for tutorials and workshops</a>
+                            <a class="dropdown-item" :href="href" @click="navigate">Call for workshops</a>
                         </router-link>
                         <router-link
                             :to="{ name: 'doctorial' }"

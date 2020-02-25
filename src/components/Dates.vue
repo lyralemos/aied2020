@@ -4,7 +4,7 @@
             <li>Abstract for Full Papers and Short Papers: Feb, 20, 2020 11:59pm PST</li>
             <li>Full Papers, Short Papers: Feb 27, 2020, 11:59pm PST</li>
             <li>Industry Papers: March 15, 2020, 11:59pm PST</li>
-            <li>Workshop & Tutorial Proposals: March 15, 2020, 11:59pm PST</li>
+            <li>Workshop Proposals: March 15, 2020, 11:59pm PST</li>
             <li>Doctoral Consortium papers: March 15, 2020, 11:59pm PST</li>
             <li>Interactive Events: April 29, 2020, 11:59pm PST</li>
         </ul>

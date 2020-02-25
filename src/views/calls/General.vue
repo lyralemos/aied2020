@@ -128,7 +128,6 @@
                         <li>Industry Papers (up to 4 pages + references)</li>
                         <li>Doctoral consortium (4 pages + references)</li>
                         <li>Workshop proposals (2-4 pages)</li>
-                        <li>Tutorial proposals (2-4 pages)</li>
                         <li>Interactive Events (2 pages)</li>
                     </ul>
 

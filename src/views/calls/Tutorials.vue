@@ -3,7 +3,7 @@
         <section class="title">
             <div class="container">
                 <div class="col-12">
-                    <h1 class="documentTitle">Call for tutorials and workshops</h1>
+                    <h1 class="documentTitle">Call for workshops</h1>
                 </div>
             </div>
         </section>
