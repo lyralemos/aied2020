@@ -18,7 +18,7 @@
                         to be spacious and comfortable. To exemplify this, our special guests 
                         and speakers will be staying in university accommodation. However, those 
                         seeking more luxury alternatives, you will find plenty of hotel options 
-                        in Ifrane, including the five star Michilfin just a few minutes walk away.
+                        in Ifrane, including the five star Michelin just a few minutes walk away.
                     </p>
                     <p>
                         Just a few miles from the university, there is the university conference 
