@@ -71,16 +71,17 @@
         </div>
       </div>
     </div>
-    <div class="shadow hide"></div>
-    <div class="popup hide">
-        <div class="head">Attention!</div>
+    <div class="modal" id="modal-alert">
+        <div class="modal-content">
+            <div class="head">Attention!</div>
 
-        <p>Following the recent travel restrictions imposed by some governments due to the Covid-19 Coronavirus, the AIED organising committee have taken the unprecedented step of allowing papers submitted from affected areas to present remotely, should their paper be accepted. Accepted papers will be included in the proceedings.</p>
-        <p><b>Please note, the AIED community thrives on our annual coming together to share ideas and learn from one another. This idea of remote presentation does not substitute from the substantial benefit of attending the conference in person - and does not set a precedent for the future. We urge those able to travel to still do so.</b></p>
-        <p>There will be a lesser registration fee for remote presentation and inclusion in conference proceedings. Please check with your university that they will support the cost of your remote participation due to these extenuating circumstances.</p>
-        <p><b>This will only apply if travel bans are still in place by April 22nd 2020.</b></p>
+            <p>Following the recent travel restrictions imposed by some governments due to the Covid-19 Coronavirus, the AIED organising committee have taken the unprecedented step of allowing papers submitted from affected areas to present remotely, should their paper be accepted. Accepted papers will be included in the proceedings.</p>
+            <p><b>Please note, the AIED community thrives on our annual coming together to share ideas and learn from one another. This idea of remote presentation does not substitute from the substantial benefit of attending the conference in person - and does not set a precedent for the future. We urge those able to travel to still do so.</b></p>
+            <p>There will be a lesser registration fee for remote presentation and inclusion in conference proceedings. Please check with your university that they will support the cost of your remote participation due to these extenuating circumstances.</p>
+            <p><b>This will only apply if travel bans are still in place by April 22nd 2020.</b></p>
 
-        <a href="#" class="btn btn-primary pull-right" @click="close()">Close</a>
+            <a href="#" class="btn btn-primary pull-right" @click="close()">Close</a>
+        </div>
     </div>
   </div>
 </template>
@@ -123,23 +124,15 @@ export default {
       }, 1000);
     },
     close() {
-        const hide = document.querySelectorAll(".popup, .shadow")
-        hide.forEach(function (h) {
-            h.classList.add('hide')
-        })
-        const body = document.getElementsByTagName('body')[0]
-        body.style.overflow = ''
+        let modal = document.getElementById("modal-alert")
+        modal.style.display = "none"
         localStorage.setItem('closed', true)
     },
     lockPage() {
         const closed = localStorage.getItem('closed')
         if (!closed) {
-            const hide = document.querySelectorAll(".popup, .shadow")
-            hide.forEach(function (h) {
-                h.classList.remove('hide')
-            })
-            const body = document.getElementsByTagName('body')[0]
-            body.style.overflow = 'hidden'
+            let modal = document.getElementById("modal-alert")
+            modal.style.display = "block"
         }
     }
   },
@@ -151,36 +144,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-.shadow{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background-color: #000;
-    top:0;
-    z-index: 1899;
-    opacity: .5;
-}
-
-.hide{display: none}
-
-.popup{
-    position: absolute;
-    top:50%;
-    left: 50%;
-    background-color: #fff;
-    padding: 15px;
-    z-index: 1900;
-    transform: translate(-50%, -50%);
-}
-
-.popup .head{
-    background-color: #c1272d !important;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-    font-size: 20px;
-    margin-bottom: 15px;
-}
-</style>
