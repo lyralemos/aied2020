@@ -145,6 +145,14 @@
                         <a class="nav-link" :href="href" @click="navigate">Sponsorship</a>
                     </li>
                 </router-link>
+                <router-link
+                    :to="{ name: 'reviewer' }"
+                    v-slot="{ href, route, navigate, isActive, isExactActive }"
+                    >
+                    <li :class=" ['nav-item nav-especial', isExactActive && 'active']">
+                        <a class="nav-link" :href="href" @click="navigate">Reviewer guidelines</a>
+                    </li>
+                </router-link>
             </ul>
             <div class="navbar-text">
                 <button class="btn btn-primary">Registration</button>
@@ -166,3 +174,22 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+    .nav-especial a{
+        background-color: #fff;
+        color:#c1272d !important;
+        border-radius: 5px;
+    }
+    .nav-especial a:hover{
+        background-color: #0d7540;
+        color: #fff !important;
+    }
+
+    @media (max-width: 991px) {
+        .nav-especial a{
+            padding-right: .5rem;
+            padding-left: .5rem;
+        }
+    }
+</style>

@@ -87,5 +87,10 @@ export default new Router({
       name: 'sponsorship',
       component: () => import('./views/Sponsorship.vue')
     },
+    {
+      path: '/reviewer',
+      name: 'reviewer',
+      component: () => import('./views/Reviewer.vue')
+    },
   ]
 })
