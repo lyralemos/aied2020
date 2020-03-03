@@ -75,7 +75,7 @@
         <div class="modal-content">
             <div class="head">Attention!</div>
 
-            <p>Considering the developing situation with regards to COVID-19, Coronavirus, we wanted to assure the AIED community that in whatever form, there will be a conference and proceedings for 2020. Here is what you need to know:</p>
+            <p>Considering the developing situation with regards to COVID-19, Coronavirus, we wanted to assure the AIED community that in some form, there will be a conference and proceedings for 2020. Here is what you need to know:</p>
             <ol>
               <li>
                 Our first priority is to the health and safety of all in our community. 
