@@ -10,9 +10,9 @@
 
         <section class="body">
             <div class="container">
-                <div class="col-12">
+                <div class="col-12 text-justify">
                     <p>
-                        We strongly recommend reading this excellent source on reviewing protocol: 
+                        We strongly recommend reading this excellent source on reviewing protocol:<br />
                         <a href="http://mobilehci.acm.org/2015/download/ExcellenceInReviewsforHCICommunity.pdf">
                             http://mobilehci.acm.org/2015/download/ExcellenceInReviewsforHCICommunity.pdf
                         </a>
