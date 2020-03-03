@@ -75,10 +75,31 @@
         <div class="modal-content">
             <div class="head">Attention!</div>
 
-            <p>Following the recent travel restrictions imposed by some governments due to the Covid-19 Coronavirus, the AIED organising committee have taken the unprecedented step of allowing papers submitted from affected areas to present remotely, should their paper be accepted. Accepted papers will be included in the proceedings.</p>
-            <p><b>Please note, the AIED community thrives on our annual coming together to share ideas and learn from one another. This idea of remote presentation does not substitute from the substantial benefit of attending the conference in person - and does not set a precedent for the future. We urge those able to travel to still do so.</b></p>
-            <p>There will be a lesser registration fee for remote presentation and inclusion in conference proceedings. Please check with your university that they will support the cost of your remote participation due to these extenuating circumstances.</p>
-            <p><b>This will only apply if travel bans are still in place by April 22nd 2020.</b></p>
+            <p>Considering the developing situation with regards to COVID-19, Coronavirus, we wanted to assure the AIED community that in whatever form, there will be a conference and proceedings for 2020. Here is what you need to know:</p>
+            <ol>
+              <li>
+                Our first priority is to the health and safety of all in our community. 
+                We are following the advice of the World Health Organisation and will 
+                primarily make decisions based on this, rather than from individual 
+                governments. 
+                <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public" target="_blank">See Here</a>
+              </li>
+              <li>
+                We will be delaying making registration “live” until the beginning of 
+                April at the earliest, so that should we need to make an alternate plan, 
+                no one has invested in full price registration
+              </li>
+              <li>
+                We encourage you to not book flights to Fez until registration is live
+              </li>
+              <li>
+                We believe it is still highly likely that the conference will take place physically, with some having to join remotely
+              </li>
+              <li>
+                Should a physical conference be unsafe we will proceed with moving to an online model
+              </li>
+            </ol>
+            <p>We have had over 260 paper submissions this year - the highest ever. Thanks to everyone who submitted a paper.</p>
 
             <a href="#" class="btn btn-primary pull-right" @click="close()">Close</a>
         </div>
