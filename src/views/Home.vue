@@ -99,7 +99,7 @@
                 Should a physical conference be unsafe we will proceed with moving to an online model
               </li>
             </ol>
-            <p>We have had over 260 paper submissions this year - the highest ever. Thanks to everyone who submitted a paper.</p>
+            <p>We have had 220 paper submissions this year from 260 abstract submissions. Thanks to everyone who submitted a paper.</p>
 
             <a href="#" class="btn btn-primary pull-right" @click="close()">Close</a>
         </div>
