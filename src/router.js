@@ -28,7 +28,7 @@ export default new Router({
       component: () => import('./views/calls/Industry.vue')
     },
     {
-      path: '/calls/tutorials',
+      path: '/calls/workshop',
       name: 'tutorials',
       component: () => import('./views/calls/Tutorials.vue')
     },
