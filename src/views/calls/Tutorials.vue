@@ -40,6 +40,11 @@
                     <ol>
                         <li>Proposal submission: March 15, 2020, 11:59pm PST</li>
                         <li>Workshop decisions: April 10, 2020</li>
+                        <li>Workshop paper submission (suggested): April 29, 2020</li>
+                        <li>One-page workshop summary for conference proceedings: May 6, 2020</li>
+                        <li>Workshop paper notification (suggested): May 13, 2020</li>
+                        <li>Workshop camera-ready full proceedings due: June 15, 2020</li>
+                        <li>Workshops: July 6th and July 7th</li>
                     </ol>
 
                     <h3>Workshop Publications</h3>
