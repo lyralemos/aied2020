@@ -112,7 +112,7 @@ export default {
                 {name:'Demetrios Sampson', email:'sampson@iti.gr',university:'Curtin University',country:'Australia'},
                 {name:'Olga C. Santos', email:'ocsantos@dia.uned.es',university:'Universidad Nacional de Educación a Distancia',country:'Spain'},
                 {name:'Kazuhisa Seta', email:'seta@mi.s.osakafu-u.ac.jp',university:'Osaka Prefecture University',country:'Japan'},
-                {name:'Lei Shi', email:'lei.shi@durham.ac.uk',university:'University of Liverpool',country:'United Kingdom'},
+                {name:'Lei Shi', email:'lei.shi@durham.ac.uk',university:'Durham University',country:'United Kingdom'},
                 {name:'Sergey Sosnovsky', email:'sosnovsky@gmail.com',university:'Utrecht University',country:'Netherlands'},
                 {name:'Pierre Tchounikine', email:'Pierre.Tchounikine@imag.fr',university:'University of Grenoble',country:'France'},
                 {name:'Maomi Ueno', email:'ueno@ai.is.uec.ac.jp',university:'The University of Electro-Communications',country:'Japan'},
