@@ -40,7 +40,7 @@
                     
                     <h3>Important Dates</h3>
                     <ul>
-                        <li>Industry Papers: March 29, 2020, 11:59pm PST</li>
+                        <li>Industry Papers: <del>March 15</del> March 29, 2020, 11:59pm PST</li>
                     </ul>
 
                     <h3>Industry & Innovation Chairs</h3>
