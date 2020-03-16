@@ -112,7 +112,7 @@ export default {
                 {name:'Demetrios Sampson', email:'sampson@iti.gr',university:'Curtin University',country:'Australia'},
                 {name:'Olga C. Santos', email:'ocsantos@dia.uned.es',university:'Universidad Nacional de Educación a Distancia',country:'Spain'},
                 {name:'Kazuhisa Seta', email:'seta@mi.s.osakafu-u.ac.jp',university:'Osaka Prefecture University',country:'Japan'},
-                {name:'Lei Shi', email:'lei.shi@durham.ac.uk',university:'University of Liverpool',country:'United Kingdom'},
+                {name:'Lei Shi', email:'lei.shi@durham.ac.uk',university:'Durham University',country:'United Kingdom'},
                 {name:'Sergey Sosnovsky', email:'sosnovsky@gmail.com',university:'Utrecht University',country:'Netherlands'},
                 {name:'Pierre Tchounikine', email:'Pierre.Tchounikine@imag.fr',university:'University of Grenoble',country:'France'},
                 {name:'Maomi Ueno', email:'ueno@ai.is.uec.ac.jp',university:'The University of Electro-Communications',country:'Japan'},
@@ -142,6 +142,14 @@ export default {
                 {name:'Tejas Dhamecha', email:'tidhamecha@in.ibm.com',university:'IBM',country:'India'},
                 {name:'Barbara Di Eugenio', email:'bdieugen@uic.edu',university:'University of Illinois at Chicago',country:'United States'},
                 {name:'Daniele Di Mitri', email:'Daniele.Dimitri@ou.nl',university:'Open University',country:'Netherlands'},
+
+                {name:'Rafeal Ferreira', email:'rafaelfmelo@gmail.com',university:'University of Pernambuco',country:'Brazil'},
+                {name:'Rafael Dias de Araújo', email:'rafael.araujo@ufu.br',university:'Federal University of Uberlandia',country:'Brazil'},
+                {name:'Solomon Sunday Oyelere', email:'solomon.oyelere@uef.fi',university:'University of Eastern Finland',country:'Finland'},
+                {name:'Emmanuel Awuni Kolog', email:'eakolog@ug.edu.gh',university:'University of Ghana',country:'Ghana'},
+                {name:'Mohamed Abdelgalil Saqr', email:'saqr@saqr.me',university:'University of Eastern Finland',country:'Finland'},
+                {name:'Sean Siqueira', email:'sean@uniriotec.br',university:'Unirio',country:'Brazil'},
+                {name:'Filippo Sciarrone', email:'sciarro@ing.uniroma3.it',university:'Roma Tre University',country:'Italy'},
             ]
         }
     },
