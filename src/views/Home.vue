@@ -93,9 +93,6 @@
                 We encourage you to not book flights to Fez until registration is live
               </li>
               <li>
-                We believe it is still highly likely that the conference will take place physically, with some having to join remotely
-              </li>
-              <li>
                 Should a physical conference be unsafe we will proceed with moving to an online model
               </li>
             </ol>
