@@ -75,28 +75,22 @@
         <div class="modal-content">
             <div class="head">Attention!</div>
 
-            <p>Considering the developing situation with regards to COVID-19, Coronavirus, we wanted to assure the AIED community that in some form, there will be a conference and proceedings for 2020. Here is what you need to know:</p>
-            <ol>
+            <p>Considering the rapidly developing global situation with regards to COVID-19, Coronavirus we want to assure the AIED community that there will be a conference and proceedings for 2020.</p>
+
+            <p>It is now looking increasingly likely that the conference will be forced to take place as a virtual rather than a physical event. We are working hard to ensure that this exceeds everyone’s expectations and goes far beyond anyone’s experience of a dry webinar. Here are our requests for now:</p>
+
+            <ul>
               <li>
-                Our first priority is to the health and safety of all in our community. 
-                We are following the advice of the World Health Organisation and will 
-                primarily make decisions based on this, rather than from individual 
-                governments. 
-                <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public" target="_blank">See Here</a>
+                Please keep our conference dates in your calendar. 6th - 10th July 2020
               </li>
               <li>
-                We will be delaying making registration “live” until the beginning of 
-                April at the earliest, so that should we need to make an alternate plan, 
-                no one has invested in full price registration
+                Please do not book travel to Morocco, even if it is possible to do so
               </li>
               <li>
-                We encourage you to not book flights to Fez until registration is live
+                Check with your university or institution that they will support registration costs for remote access to the event
               </li>
-              <li>
-                Should a physical conference be unsafe we will proceed with moving to an online model
-              </li>
-            </ol>
-            <p>We have had 220 paper submissions this year from 260 abstract submissions. Thanks to everyone who submitted a paper.</p>
+            </ul>
+            <p>There will be many challenges to overcome, particularly how we transcend time zones and bringing people together in a meaningful way. But this has been an extraordinary year for anyone working in the AIED space and it’s important to celebrate our achievements and share our learning.</p>
 
             <a href="#" class="btn btn-primary pull-right" @click="close()">Close</a>
         </div>
