@@ -150,6 +150,8 @@ export default {
                 {name:'Mohamed Abdelgalil Saqr', email:'saqr@saqr.me',university:'University of Eastern Finland',country:'Finland'},
                 {name:'Sean Siqueira', email:'sean@uniriotec.br',university:'Unirio',country:'Brazil'},
                 {name:'Filippo Sciarrone', email:'sciarro@ing.uniroma3.it',university:'Roma Tre University',country:'Italy'},
+
+                {name:'Maiga Chang', email:'maiga.chang@gmail.com',university:'Athabascau University',country:'Canada'},
             ]
         }
     },
