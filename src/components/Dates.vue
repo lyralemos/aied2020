@@ -10,7 +10,7 @@
         </ul>
         <h5>Other Important Dates</h5>
         <ul>
-            <li>Meta-reviews: April 8, 2020, 11:59pm PST</li>
+            <li>Meta-reviews: <del>April 8</del> April 14, 2020, 11:59pm PST</li>
             <li>Notification: April 22, 2020, 11:59pm PST</li>
             <li>Camera-ready papers: May 6, 2020, 11:59pm PST</li>
         </ul>
