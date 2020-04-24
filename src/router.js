@@ -53,6 +53,11 @@ export default new Router({
       component: () => import('./views/program/Keynotes.vue')
     },
     {
+      path: '/program/accepted',
+      name: 'accepted',
+      component: () => import('./views/program/Accepted.vue')
+    },
+    {
       path: '/organizing/committee',
       name: 'committee',
       component: () => import('./views/organizing/Committee.vue')
