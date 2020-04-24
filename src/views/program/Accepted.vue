@@ -3,7 +3,7 @@
         <section class="title">
             <div class="container">
                 <div class="col-12">
-                    <h1 class="documentTitle">Accepted Papers</h1>
+                    <h1 class="documentTitle">Accepted Full Papers</h1>
                 </div>
             </div>
         </section>
@@ -11,8 +11,6 @@
         <section class="body">
             <div class="container">
                 <div class="col-12">
-                    <h3>Full Papers</h3>
-
                     <div id="accordion">
                         <div class="card" v-for="(paper, key) in full" :key="key">
                             <div class="card-header">

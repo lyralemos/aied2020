@@ -53,9 +53,14 @@ export default new Router({
       component: () => import('./views/program/Keynotes.vue')
     },
     {
-      path: '/program/accepted',
-      name: 'accepted',
+      path: '/program/accepted-full',
+      name: 'accepted-full',
       component: () => import('./views/program/Accepted.vue')
+    },
+    {
+      path: '/program/accepted-short',
+      name: 'accepted-short',
+      component: () => import('./views/program/Short.vue')
     },
     {
       path: '/organizing/committee',
