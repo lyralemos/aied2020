@@ -7,7 +7,8 @@
         <img src="../assets/aied2020-white.png" alt="AIED2020" title="" style="max-width:100%; margin-bottom:20px">
         <h2 class="pb-3">The 21th International Conference on Artificial Intelligence in Education</h2>
         <h2 class="pb-3">6th - 10th July 2020</h2>
-        <h2 class="pb-3">Al Akhawayn University - Ifrane - Morocco</h2>
+        <h2 class="pb-3"><del>Al Akhawayn University - Ifrane - Morocco</del></h2>
+        <h2 class="pb-3">Cyberspace</h2>
 
         <div class="actions">
           <router-link :to="{name:'program'}" class="btn btn-md btn-secondary">Conference Program</router-link>
@@ -150,7 +151,7 @@ export default {
   },
   mounted() {
     this.startTimer()
-    this.lockPage()
+    // this.lockPage()
   },
   created() {
   }
