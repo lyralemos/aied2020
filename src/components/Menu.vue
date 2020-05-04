@@ -167,7 +167,13 @@
                 </router-link>
             </ul>
             <div class="navbar-text">
-                <button class="btn btn-primary">Registration</button>
+                <router-link
+                    tag="button"
+                    :to="{ name: 'registration' }"
+                    class="btn btn-primary">
+                    Registration
+                </router-link>
+                <!-- <button class="btn btn-primary">Registration</button> -->
             </div>
         </div>
     </nav>
