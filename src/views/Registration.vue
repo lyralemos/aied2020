@@ -23,7 +23,7 @@
                             <td>£60</td>
                         </tr>
                         <tr>
-                            <td>Society Members - Before 17th</td>
+                            <td>Society Members - Before 17th May</td>
                             <td>£100</td>
                             <td>£40</td>
                         </tr>
