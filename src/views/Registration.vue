@@ -43,6 +43,18 @@
                             <td>£70</td>
                         </tr>
                     </table>
+                    <p>
+                        Registration for AIED 2020 is now live. We are currently only offering conference registration, 
+                        as we are still developing our workshop offers for this year. You will be able to buy workshop 
+                        attendance separately from your conference registration, so please check back here in a few 
+                        weeks for workshop options.
+                    </p>
+                    <p>
+                        <b>EARLY BIRD RATES ARE ONLY AVAILABLE UNTIL 15TH MAY SO REGISTER SOON TO GET THE BEST DEAL.</b>
+                    </p>
+                    <p class="text-center">
+                        <a href="https://attendify.co/aied-2020-hYsvyTU" class="btn btn-primary btn-lg" target="_blank">Register Now</a>
+                    </p>
                 </div>
             </div>
             
