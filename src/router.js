@@ -102,5 +102,10 @@ export default new Router({
       name: 'reviewer',
       component: () => import('./views/Reviewer.vue')
     },
+    {
+      path: '/registration',
+      name: 'registration',
+      component: () => import('./views/Registration.vue')
+    },
   ]
 })
