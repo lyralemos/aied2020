@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
         <router-link :to="{name:'home'}" class="navbar-brand">
-            <img src="../assets/aied2020-white.png" alt="AIED2020" title="" style="height: 3.8rem;">
+            <img src="../assets/new-logo-small.png" alt="AIED2020" title="" style="height: 3.8rem;">
         </router-link>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -192,22 +192,3 @@ export default {
     }
 }
 </script>
-
-<style scoped>
-    .nav-especial a{
-        background-color: #fff;
-        color:#c1272d !important;
-        border-radius: 5px;
-    }
-    .nav-especial a:hover{
-        background-color: #0d7540;
-        color: #fff !important;
-    }
-
-    @media (max-width: 991px) {
-        .nav-especial a{
-            padding-right: .5rem;
-            padding-left: .5rem;
-        }
-    }
-</style>

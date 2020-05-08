@@ -32,7 +32,7 @@
                             <th>Student</th>
                         </tr>
                         <tr>
-                            <td>Presenters - Before 15th May</td>
+                            <td>Presenters - May 15th</td>
                             <td>£150</td>
                             <td>£60</td>
                         </tr>

@@ -1,10 +1,31 @@
 <template>
   <div class="home">
-    <div class="cta">
+    <div class="call-to-action">
+      <div class="bg-image"></div>
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <img src="../assets/new-logo-large.png" alt="AIED2020" title="" style="max-width:100%; margin-bottom:20px">
+            <div class="data">
+              <h2 class="pb-3">6th - 10th July 2020</h2>
+              <h2 class="pb-3">Cyberspace</h2>
+
+              <div class="actions">
+                <router-link :to="{name:'program'}" class="btn btn-md btn-secondary">Conference Program</router-link>
+                <router-link :to="{name:'general'}" class="btn btn-md btn-secondary">Call for Participation</router-link>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="cta">
+      <div class="bg-image"></div>
       <div class="overlay"></div>
       <div class="data">
-        <!-- <h1 class="pb-3">AIED 2020</h1> -->
-        <img src="../assets/aied2020-white.png" alt="AIED2020" title="" style="max-width:100%; margin-bottom:20px">
+        <h1 class="pb-3">AIED 2020</h1>
+        <img src="../assets/new-logo-large.png" alt="AIED2020" title="" style="max-width:100%; margin-bottom:20px">
         <h2 class="pb-3">The 21th International Conference on Artificial Intelligence in Education</h2>
         <h2 class="pb-3">6th - 10th July 2020</h2>
         <h2 class="pb-3"><del>Al Akhawayn University - Ifrane - Morocco</del></h2>
@@ -15,7 +36,7 @@
           <router-link :to="{name:'general'}" class="btn btn-md btn-secondary">Call for Participation</router-link>
         </div>
       </div>
-    </div>
+    </div> -->
     <div class="countdown">
       <div class="container">
         <div class="row">
