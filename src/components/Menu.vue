@@ -17,7 +17,7 @@
                         <a class="nav-link" :href="href" @click="navigate">Home</a>
                     </li>
                 </router-link>
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         About Ifrane
                     </a>
@@ -47,7 +47,7 @@
                             <a class="dropdown-item" :href="href" @click="navigate">Culture and Food</a>
                         </router-link>
                     </div>
-                </li>
+                </li> -->
                 <router-link
                     to="/dates"
                     v-slot="{ href, route, navigate, isActive, isExactActive }"
