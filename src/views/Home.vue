@@ -11,10 +11,10 @@
               <h2 class="pb-3">6th - 10th July 2020</h2>
               <h2 class="pb-3">Cyberspace</h2>
 
-              <div class="actions">
+              <!-- <div class="actions">
                 <router-link :to="{name:'program'}" class="btn btn-md btn-secondary">Conference Program</router-link>
                 <router-link :to="{name:'general'}" class="btn btn-md btn-secondary">Call for Participation</router-link>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>

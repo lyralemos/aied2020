@@ -117,5 +117,17 @@ export default new Router({
       name: 'registration',
       component: () => import('./views/Registration.vue')
     },
-  ]
+    {
+      path: '/plataform',
+      name: 'plataform',
+      component: () => import('./views/Platform.vue')
+    },
+  ],
+  scrollBehavior (to, from, savedPosition) {
+    // return desired position
+    if (savedPosition){
+      return savedPosition
+    }
+    return { x: 0, y: 0 }
+  }
 })

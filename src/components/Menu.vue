@@ -166,7 +166,15 @@
                     v-slot="{ href, route, navigate, isActive, isExactActive }"
                     >
                     <li :class=" ['nav-item', isExactActive && 'active']">
-                        <a class="nav-link" :href="href" @click="navigate">Sponsorship</a>
+                        <a class="nav-link" :href="href" @click="navigate">Sponsors</a>
+                    </li>
+                </router-link>
+                <router-link
+                    :to="{ name: 'plataform' }"
+                    v-slot="{ href, route, navigate, isActive, isExactActive }"
+                    >
+                    <li :class=" ['nav-item', isExactActive && 'active']">
+                        <a class="nav-link" :href="href" @click="navigate">Platform</a>
                     </li>
                 </router-link>
                 <router-link

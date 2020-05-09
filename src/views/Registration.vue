@@ -13,7 +13,13 @@
                 <div class="col-12">
                     
                     <p>
-                        Registration for AIED 2020 is now live. We are currently only offering conference registration, 
+                        Registration for AIED 2020 is now live. 
+                        This year we require all presenters to become society members. You can become a society member 
+                        <a href="https://iaied.org/membership/join">here</a>. 
+                        All paper/poster presenters should choose “presenter” registration.
+                    </p>
+                    <p>
+                        We are currently only offering conference registration, 
                         as we are still developing our workshop offers for this year. You will be able to buy workshop 
                         attendance separately from your conference registration, so please check back here in a few 
                         weeks for workshop options.

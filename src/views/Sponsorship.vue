@@ -3,7 +3,7 @@
         <section class="title">
             <div class="container">
                 <div class="col-12">
-                    <h1 class="documentTitle">Sponsorship</h1>
+                    <h1 class="documentTitle">Sponsors</h1>
                 </div>
             </div>
         </section>
@@ -12,6 +12,12 @@
             <div class="container">
                 <div class="col-12">
                     <div class="text-center">
+                        <h3>2020 Sponsors</h3>
+                        <div class="sponsors-images">
+                            <img src="@/assets/google.png" alt="Google">
+                            <img src="@/assets/springer.png" alt="Google">
+                        </div>
+                        <br /><br /><br /><br />
                         <h4>
                             Interested in supporting AIED 2020? 
                         </h4>

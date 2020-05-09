@@ -12,10 +12,15 @@
             <div class="container">
                 <div class="col-12">
                     <Committee />
+                    <p>
+                        Our event organisers Suklaa will be working with us to make the conference a success. 
+                        This is our third consecutive year working with Suklaa on conference logistics.
+                    </p>
                 </div>
             </div>
             
         </section>
+
     </div>
 </template>
 

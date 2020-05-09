@@ -265,3 +265,11 @@ section.body h3{
 .paper{
     color: #345d9f;
 }
+
+.sponsors-images{
+    margin: 20px 0;
+}
+
+.sponsors-images img{
+    margin: 0 10px;
+}
