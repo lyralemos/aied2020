@@ -3,7 +3,7 @@
         <section class="title">
             <div class="container">
                 <div class="col-12">
-                    <h1 class="documentTitle">Industry Track</h1>
+                    <h1 class="documentTitle">Industry Track Papers</h1>
                 </div>
             </div>
         </section>

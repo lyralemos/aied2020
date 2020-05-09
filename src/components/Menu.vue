@@ -111,10 +111,16 @@
                             <a class="dropdown-item" :href="href" @click="navigate">Accepted Short Papers</a>
                         </router-link>
                         <router-link
+                            :to="{ name: 'program-workshops' }"
+                            v-slot="{ href, route, navigate, isActive, isExactActive }"
+                            >
+                            <a class="dropdown-item" :href="href" @click="navigate">Accepted Workshops</a>
+                        </router-link>
+                        <router-link
                             :to="{ name: 'accepted-industry' }"
                             v-slot="{ href, route, navigate, isActive, isExactActive }"
                             >
-                            <a class="dropdown-item" :href="href" @click="navigate">Industry Track</a>
+                            <a class="dropdown-item" :href="href" @click="navigate">Industry Track Papers</a>
                         </router-link>
                         <router-link
                             :to="{ name: 'proceedings' }"
