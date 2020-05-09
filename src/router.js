@@ -63,6 +63,16 @@ export default new Router({
       component: () => import('./views/program/Short.vue')
     },
     {
+      path: '/program/industry',
+      name: 'accepted-industry',
+      component: () => import('./views/program/Industry.vue')
+    },
+    {
+      path: '/program/workshops',
+      name: 'program-workshops',
+      component: () => import('./views/program/Workshops.vue')
+    },
+    {
       path: '/organizing/committee',
       name: 'committee',
       component: () => import('./views/organizing/Committee.vue')

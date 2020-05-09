@@ -47,9 +47,3 @@ export default {
     }
 }
 </script>
-
-<style scoped>
-    .paper{
-        color: #006331;
-    }
-</style>
