@@ -46,9 +46,9 @@
                         <div class="card">
                             <div class="card-header">
                                 <h5>
-                                    WeASeL 2020: 3rd Workshop on Optimizing Human Learning: eliciting Adaptive Sequences for Learning
+                                    Optimizing Human Learning: 3rd International Workshop eliciting Adaptive Sequences for Learning (WASL 2020)
                                 </h5>
-                                Fabrice Popineau
+                                Jill-Jênn Vie, Fabrice Popineau, Hisashi Kashima, Benoît Choffin
                                 <br />
                             </div>
                         </div>
