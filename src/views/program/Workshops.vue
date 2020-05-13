@@ -40,6 +40,7 @@
                                 </h5>
                                 Gerald Steinbauer, Sven Koenig, Fredrik Heintz, Tara Chklovski, Martin Kandlhofer, Julie Henry
                                 <br />
+                                <a href="http://eduai.ist.tugraz.at/" target="_blank">http://eduai.ist.tugraz.at/</a>
                             </div>
                         </div>
 
@@ -50,6 +51,7 @@
                                 </h5>
                                 Jill-Jênn Vie, Fabrice Popineau, Hisashi Kashima, Benoît Choffin
                                 <br />
+                                <a href="https://humanlearn.io/" target="_blank">https://humanlearn.io/</a>
                             </div>
                         </div>
                     </div>
