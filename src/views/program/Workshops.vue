@@ -30,6 +30,7 @@
                                 </h5>
                                 Sergey Sosnovsky, Peter Brusilovsky, Richard Baraniuk, Andrew Lan
                                 <br />
+                                <a href="https://intextbooks.science.uu.nl/workshop2020/" target="_blank">https://intextbooks.science.uu.nl/workshop2020/</a>
                             </div>
                         </div>
 

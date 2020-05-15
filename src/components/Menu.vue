@@ -128,12 +128,6 @@
                             >
                             <a class="dropdown-item" :href="href" @click="navigate">Proceedings</a>
                         </router-link>
-                        <router-link
-                            :to="{ name: 'keynotes' }"
-                            v-slot="{ href, route, navigate, isActive, isExactActive }"
-                            >
-                            <a class="dropdown-item" :href="href" @click="navigate">Keynotes</a>
-                        </router-link>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -161,6 +155,14 @@
                         </router-link>
                     </div>
                 </li>
+                <router-link
+                    :to="{ name: 'keynotes' }"
+                    v-slot="{ href, route, navigate, isActive, isExactActive }"
+                    >
+                    <li :class=" ['nav-item', isExactActive && 'active']">
+                        <a class="nav-link" :href="href" @click="navigate">Keynotes</a>
+                    </li>
+                </router-link>
                 <router-link
                     :to="{ name: 'sponsorship' }"
                     v-slot="{ href, route, navigate, isActive, isExactActive }"

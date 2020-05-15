@@ -48,9 +48,9 @@ export default new Router({
       component: () => import('./views/program/Proceedings.vue')
     },
     {
-      path: '/program/keynotes',
+      path: '/keynotes',
       name: 'keynotes',
-      component: () => import('./views/program/Keynotes.vue')
+      component: () => import('./views/Keynotes.vue')
     },
     {
       path: '/program/accepted-full',
