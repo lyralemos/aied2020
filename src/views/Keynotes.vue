@@ -59,6 +59,45 @@
                         </p>
                     </div>
                 </div>
+
+                <div class="row mt-5">
+                    <div class="col-md-3 text-center">
+                        <img class="rounded-circle img-fluid mb-5" src="@/assets/keynotes/yvonne.jpg" />
+                    </div>
+                    <div class="col-md-9">
+                        <h2>Yvonne Rogers</h2>
+
+                        <p>
+                            Yvonne Rogers is a Professor of Interaction Design, the director of UCLIC and a deputy head of the Computer Science department 
+                            at University College London. Her research interests are in the areas of ubiquitous computing, interaction design and human-computer 
+                            interaction. A central theme of her work is concerned with designing interactive technologies that augment humans. A current 
+                            focus of her research is on human data interaction. She is also interested in what human-centered AI means in practice. Central 
+                            to her work is a critical stance towards how visions, theories and frameworks shape the fields of HCI, cognitive science and 
+                            Ubicomp. She has been instrumental in promulgating new theories (e.g., external cognition), alternative methodologies (e.g., in 
+                            the wild studies) and far-reaching research agendas (e.g., 
+                            <a href="http://research.microsoft.com/en-us/um/cambridge/projects/hci2020/">"Being Human: HCI in 2020"</a>). She has also published two monographs 
+                            <a href="http://www.morganclaypool.com/doi/abs/10.2200/S00418ED1V01Y201205HCI014">"HCI Theory: Classical, Modern and Contemporary."</a>
+                             and <a href="http://www.morganclaypool.com/doi/abs/10.2200/S00764ED1V01Y201703HCI037">"Research in the Wild."</a> 
+                            with Paul Marshall. She is a fellow of the ACM, BCS and the ACM CHI Academy.
+                        </p>
+
+                        <h3>"The New Zeitgeist: Human-AI"</h3>
+
+                        <p>
+                            In place of the Singularity, Superintelligence and General AI visions that have dominated much of the debate surrounding AI 
+                            (that predicted that machines will become eventually become more intelligent than human beings and take over the world) quite 
+                            different ways of imagining AI are now emerging that are less dystopian or utopian-driven. In contrast, a new discourse is 
+                            emerging that is rethinking the benefits of future AI advances from a more human perspective. The main thrust of this approach 
+                            is to orient towards envisioning new forms of human-AI partnerships, where humans collaborate with, talk to, or even confide in 
+                            AI, and conversely, where AI, through its various guises, becomes a companion, therapist, colleague, assistant or other. 
+                            Such a shift in thinking enables researchers and developers to design quite different kinds of intelligent systems - those 
+                            that augment humans. The implications of doing so are profound; especially when considering how to enhance the way learners, 
+                            educators and teachers can collaborate with AI in the future. In my talk I will begin to describe what the opportunities and 
+                            challenges are with this new framing for AI and Ed.
+                        </p>
+                    </div>
+
+                </div>
             </div>
         </section>
     </div>
