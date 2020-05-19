@@ -3,7 +3,7 @@
         <section class="title">
             <div class="container">
                 <div class="col-12">
-                    <h1 class="documentTitle">Plataform</h1>
+                    <h1 class="documentTitle">Platform</h1>
                 </div>
             </div>
         </section>
