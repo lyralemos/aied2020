@@ -55,7 +55,10 @@
                             that have more recently come out from the platform by others. Finally, I will point to how we are anonymizing our data and how 
                             over 
                             <a href="https://sites.google.com/site/assistmentsstudies/useourdata">34 different external researchers have used our datasets to publish scientific studies</a>. I would like to thank the U.S. 
-                            Department of Education and the National Science Foundation for their support of over $32 million from 40+ grants.  
+                            Department of Education and the National Science Foundation for their support of over $32 million from 40+ grants. I will also address 
+                            how COVID19 has driven a ten-fold increase in the number of teachers creating new ASSISTments accounts, and I will give my own personal 
+                            take on how COVID19 highlights the need to keep teachers in the loop so that their students know their teachers are paying attention to 
+                            their work and what it means for the AIED community.
                         </p>
                     </div>
                 </div>
