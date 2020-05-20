@@ -62,7 +62,7 @@
                         </p>
                     </div>
                 </div>
-
+                <hr />
                 <div class="row mt-5">
                     <div class="col-md-3 text-center">
                         <img class="rounded-circle img-fluid mb-5" src="@/assets/keynotes/yvonne.jpg" />
@@ -100,6 +100,67 @@
                         </p>
                     </div>
 
+                </div>
+                <hr />
+                <div class="row mt-5">
+                    <div class="col-md-3 text-center">
+                        <img class="rounded-circle img-fluid mb-5" src="@/assets/keynotes/andreas.jpg" />
+                        
+                    </div>
+
+                    <div class="col-md-9">
+                        <h2>Andreas Schleicher</h2>
+
+                        <p>
+                            Andreas Schleicher is Director for Education and Skills, and Special Advisor on Education Policy to
+                            the Secretary-General at the Organisation for Economic Co-operation and Development (OECD).
+                            He initiated and oversees the Programme for International Student Assessment (PISA) and other
+                            international instruments, like the OECD Teaching and Learning International Survey (TALIS) and
+                            the Survey of Adult Skills (PIAAC), which create a global platform for policy-makers, researchers
+                            and educators to innovate and transform educational policies and practices. He has worked for
+                            over 20 years with Ministers and educational leaders around the world to improve quality and
+                            equity in education. U.S. Education Secretary Arne Duncan said about Andreas in The Atlantic
+                            (7/2011) that “He understands the global issues and challenges as well as or better than anyone
+                            I’ve met, and he tells me the truth”. Secretary of State Michael Gove in the United Kingdom called
+                            Andreas “the most important man in English education”, never mind that he is German and lives
+                            in France. Andreas is the recipient of numerous honours and awards, including the “Theodor
+                            Heuss” prize, awarded for “exemplary democratic engagement” in the name of the first president
+                            of the Federal Republic of Germany. He holds an honorary professorship at the University of
+                            Heidelberg.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3 text-center">
+                        <img class="rounded-circle img-fluid mb-5" src="@/assets/keynotes/jim.jpg" />
+                    </div>
+                    <div class="col-md-9">
+                        <h2>Jim Knight</h2>
+
+                        <p>
+                            Jim Knight works in education, medtech and as a legislator. He is an expert in politics, leadership,
+                            digital disruption, and talent recruitment and development.<br />
+                            Jim is the Chief Education and External Officer at TES Global Ltd, the news, training, jobs and
+                            resource sharing service for teachers. His responsibilities include all corporate communications and
+                            Tes Institute, a teacher training business he founded and that is now the fifth largest qualifier of
+                            teachers in the UK. Tes Institute uses online learning extensively for high quality post graduate level
+                            learning, delivered as professional development.<br />
+                            Jim is also a founder of XRapid, enabling diagnosis of malaria and asbestos fibres using iPhones.
+                            This technology used machine learning and pattern recognition to replace monotonous laboratory
+                            practice.<br />
+                            As a UK government minister his portfolios included rural affairs, schools, digital and employment. He
+                            was a member of Gordon Brown’s Cabinet 2009-2010, before joining the Lords after the 2010
+                            General Election. He is the only person to have won and retained a seat for Labour in a General
+                            Election in Dorset. He is also a visiting Professor at the Knowledge Lab of the UCL Institute of
+                            Education and Chair of Whole Education.
+                        </p>
+
+                        <h3>"A fireside chat about how AI impacts upon the policy making landscape in education, particularly in the wake of the current pandemic."</h3>
+
+                        <p>
+                            
+                        </p>
+                    </div>
                 </div>
             </div>
         </section>
