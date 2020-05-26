@@ -18,7 +18,7 @@
                                 Robby Robson,
                                 Jim Goodell,
                                 Michael Jay,
-                                Brent Reed, 
+                                Brandt Reed, 
                                 Ivy Tang
                                 <br />
                                 <a href="https://sagroups.ieee.org/ltsc/event/2020-aied-workshop-empowering-education-with-ai-technology/" target="_blank">https://sagroups.ieee.org/ltsc/event/2020-aied-workshop-empowering-education-with-ai-technology/</a>
