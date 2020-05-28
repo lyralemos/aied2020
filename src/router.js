@@ -63,6 +63,11 @@ export default new Router({
       component: () => import('./views/program/Short.vue')
     },
     {
+      path: '/program/accepted-poster',
+      name: 'accepted-poster',
+      component: () => import('./views/program/Poster.vue')
+    },
+    {
       path: '/program/industry',
       name: 'accepted-industry',
       component: () => import('./views/program/Industry.vue')
