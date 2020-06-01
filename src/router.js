@@ -60,13 +60,13 @@ export default new Router({
     {
       path: '/program/accepted-short',
       name: 'accepted-short',
-      component: () => import('./views/program/Short.vue')
-    },
-    {
-      path: '/program/accepted-poster',
-      name: 'accepted-poster',
       component: () => import('./views/program/Poster.vue')
     },
+    // {
+    //   path: '/program/accepted-poster',
+    //   name: 'accepted-poster',
+    //   component: () => import('./views/program/Poster.vue')
+    // },
     {
       path: '/program/industry',
       name: 'accepted-industry',

@@ -3,7 +3,7 @@
         <section class="title">
             <div class="container">
                 <div class="col-12">
-                    <h1 class="documentTitle">Accepted Posters</h1>
+                    <h1 class="documentTitle">Accepted Short Papers</h1>
                 </div>
             </div>
         </section>

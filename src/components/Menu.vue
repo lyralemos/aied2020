@@ -110,12 +110,12 @@
                             >
                             <a class="dropdown-item" :href="href" @click="navigate">Accepted Short Papers</a>
                         </router-link>
-                        <router-link
+                        <!-- <router-link
                             :to="{ name: 'accepted-poster' }"
                             v-slot="{ href, route, navigate, isActive, isExactActive }"
                             >
                             <a class="dropdown-item" :href="href" @click="navigate">Accepted Posters</a>
-                        </router-link>
+                        </router-link> -->
                         <router-link
                             :to="{ name: 'program-workshops' }"
                             v-slot="{ href, route, navigate, isActive, isExactActive }"
