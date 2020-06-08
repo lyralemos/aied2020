@@ -19,7 +19,7 @@
                                 Jim Goodell,
                                 Michael Jay,
                                 Brandt Redd, 
-                                Ivy Tang
+                                Xiangen Hu
                                 <br />
                                 <a href="https://sagroups.ieee.org/ltsc/event/2020-aied-workshop-empowering-education-with-ai-technology/" target="_blank">https://sagroups.ieee.org/ltsc/event/2020-aied-workshop-empowering-education-with-ai-technology/</a>
                             </div>
