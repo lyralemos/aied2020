@@ -15,7 +15,7 @@
                         <img class="rounded-circle img-fluid mb-5" src="@/assets/keynotes/neil.jpg" />
                     </div>
                     <div class="col-md-9">
-                        <h2>Neil Heffernan </h2>
+                        <h2>Neil Heffernan</h2>
                         <p>
                             Since 2002 <a href="https://www.neilheffernan.net/" target="blank">Neil Heffernan</a> has been a Professor at Worcester Polytechnic 
                             Institute in the Computer Science Department. 
@@ -131,7 +131,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-3 text-center">
+                    <div class="col-md-3 text-center">
                         <img class="rounded-circle img-fluid mb-5" src="@/assets/keynotes/jim.jpg" />
                     </div>
                     <div class="col-md-9">
@@ -162,6 +162,104 @@
                         </p>
                     </div>
                 </div>
+
+                <hr />
+                <div class="row">
+                    <div class="col-md-3 text-center">
+                        <img class="rounded-circle img-fluid mb-5 small" src="@/assets/keynotes/lewis.jpg" />
+                    </div>
+                    <div class="col-md-9">
+                        <h2>W. Lewis Johnson</h2>
+                        <p>
+                            Dr. Johnson is an internationally recognized expert in AI education. For his work on the first Alelo 
+                            immersive game, Tactical Iraqi, he won DARPA’s Significant Technical Achievement Award. He has been a 
+                            past President of the International AI in Education Society and was co-winner of the 2017 Autonomous 
+                            Agents Influential Paper Award for his work in the field of pedagogical agents. He has been invited 
+                            to speak at many international conferences such as the International Conference on Intelligent Tutoring 
+                            Systems, and presented a Distinguished Lecture at the National Science Foundation.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 text-center">
+                        <img class="rounded-circle img-fluid mb-5 small" src="@/assets/keynotes/neil.jpg" />
+                    </div>
+                    <div class="col-md-9">
+                        <h2>Neil Heffernan</h2>
+                        <p>
+                            Neil T. Heffernan enjoys doing educational data mining and running the ASSISTments system. ASSISTments 
+                            helps schools teach better. It’s a web service hosted at WPI that allows teachers to assign nightly homework 
+                            or daily class work. Students get instant feedback while teachers get live reports. Professor Heffernan 
+                            enjoys supervising WPI students in creating ASSISTments content and features. He has 6 dozens paper in 
+                            educational data mining, and 20+ papers in comparing different ways to optimize student learning.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 text-center">
+                        <img class="rounded-circle img-fluid mb-5 small" src="@/assets/keynotes/james.png" />
+                    </div>
+                    <div class="col-md-9">
+                        <h2>James Lester</h2>
+                        <p>
+                            His research centers on adaptive learning technologies that utilize AI to create learning experiences 
+                            that are designed to be both highly effective and highly engaging. Over the past decade, his work has 
+                            focused on intelligent game-based learning environments, computational models of narrative, affective 
+                            computing, and natural language tutorial dialogue. The adaptive learning environments he and his 
+                            colleagues develop have been used by thousands of students in K-12 classrooms throughout the US. He is 
+                            a Fellow of the Association for the Advancement of Artificial Intelligence (AAAI).
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 text-center">
+                        <img class="rounded-circle img-fluid mb-5 small" src="@/assets/keynotes/jack.png" />
+                    </div>
+                    <div class="col-md-9">
+                        <h2>Jack Mostow</h2>
+                        <p>
+                            Jack Mostow leads the <a href="http://www.robotutor.org/">RoboTutor</a> team, a $1M Finalist in the 
+                            $15M Global Learning XPRIZE competition to 
+                            develop an open-source tablet app that teaches basic literacy and numeracy to children in developing 
+                            countries. He previously founded Project LISTEN to develop an automated Reading Tutor that listens to 
+                            children read aloud. It won AAAI94’s Outstanding Paper Award, a U.S. patent, inclusion in NSF’s Nifty 
+                            Fifty, and the Allen Newell Medal of Research Excellence. Prof. Mostow earned his A.B. cum laude in 
+                            Applied Mathematics from Harvard University and his Ph.D. in Computer Science from Carnegie Mellon 
+                            University.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 text-center">
+                        <img class="rounded-circle img-fluid mb-5 small" src="@/assets/keynotes/carolyn.jpg" />
+                    </div>
+                    <div class="col-md-9">
+                        <h2>Carolyn Rosé</h2>
+                        <p>
+                            Her research focuses on understanding the social and pragmatic nature of conversation, and using this 
+                            understanding to build computational systems that can improve the efficacy of conversation between people, 
+                            and between people and computers. She serves as Past President and Inaugural Fellow of the International 
+                            Society of the Learning Sciences, Senior member of IEEE, Founding Chair of the International Alliance to 
+                            Advance Learning in the Digital Era, Executive Editor of the International Journal of Computer-Supported 
+                            Collaborative Learning, and Associate Editor of the IEEE Transactions on Learning Technologies.
+                        </p>
+
+                        <h3>"How AI Can Support Teaching and Learning Under COVID-19 and Beyond" </h3>
+
+                        <p>
+                            The sudden shift to online teaching during the COVID-19 pandemic caused new problems for
+                            teachers, and highlighted problems that already existed in the educational system. AI-driven
+                            learning systems have an
+                            important role to play in addressing these problems. We must ensure
+                            broad and equitable access to AI technologies. AI technologies must be accountable to and
+                            trusted by teachers. Technology should promote collaboration and community among learners
+                            who find themselves isolated and separated from teachers, peers, and learning resources. They
+                            can help orchestrate and track student work, hold students accountable, and guard against
+                            cheating and plagiarism. Professional development is needed to help educators make best use of
+                            AI-driven tools in online and blended learning contexts.
+                        </p>
+                    </div>
+                </div>
             </div>
         </section>
     </div>
@@ -173,3 +271,9 @@ export default {
     name: 'Keynotes',
 }
 </script>
+
+<style scoped>
+    .small{
+        max-width: 150px;
+    }
+</style>
