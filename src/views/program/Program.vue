@@ -15,7 +15,7 @@
                         <b>
                             This conference agenda is still in draft and is subject to minor changes over the next few days. 
                             Thanks for your patience while we get all programme details finalised. 
-                            We look forward to welcoming you to AIED 2021.
+                            We look forward to welcoming you to AIED 2020.
                         </b>
                     </p>
                     <div>
