@@ -164,7 +164,7 @@
                 </div>
 
                 <hr />
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-md-3 text-center">
                         <img class="rounded-circle img-fluid mb-5 small" src="@/assets/keynotes/lewis.jpg" />
                     </div>
@@ -259,7 +259,7 @@
                             AI-driven tools in online and blended learning contexts.
                         </p>
                     </div>
-                </div>
+                </div> -->
             </div>
         </section>
     </div>
