@@ -18,6 +18,14 @@
                             We look forward to welcoming you to AIED 2020.
                         </b>
                     </p>
+                    <p>
+                        <b>
+                            Please note this programme is showing in BST (London, UK time) and is for reference only. 
+                            The conference platform and app will show everything in your local time and you will not 
+                            need to convert any timings. We are aiming to have the conference platform available for 
+                            you by Friday 26th June.
+                        </b>
+                    </p>
                     <div>
                         <div title="Whova event and conference app" id="whova-agendawidget">
                             <p id="whova-loading">Loading...</p>
