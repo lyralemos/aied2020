@@ -78,6 +78,11 @@ export default new Router({
       component: () => import('./views/program/Workshops.vue')
     },
     {
+      path: '/program/nominations',
+      name: 'program-nominations',
+      component: () => import('./views/program/Best.vue')
+    },
+    {
       path: '/organizing/committee',
       name: 'committee',
       component: () => import('./views/organizing/Committee.vue')
