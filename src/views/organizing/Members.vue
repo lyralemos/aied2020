@@ -125,7 +125,7 @@ export default {
                 {name:'Esma Aimeur', email:'aimeur@iro.umontreal.ca',university:'University of Montreal',country:'Canada'},
                 {name:'Patricia Albacete', email:'palbacet@pitt.edu',university:'University of Pittsburgh',country:'United States'},
                 {name:'Ivon Arroyo', email:'arroyo.ivon@gmail.com',university:'Worcester Polytechnic Institute',country:'United States'},
-                {name:'Nilufar Baghaei', email:'Nilufar.Baghaei@op.ac.nz',university:'OPAIC',country:'New Zealand'},
+                {name:'Nilufar Baghaei', email:'N.Baghaei@massey.ac.nz',university:'Massey University',country:'New Zealand'},
                 {name:'Ryan Baker', email:'ryanshaunbaker@googlemail.com',university:'University of Pennsylvania',country:'United States'},
                 {name:'Emmanuel Blanchard', email:'ebl@idu-interactive.com',university:'IDÛ Interactive Inc.',country:'Canada'},
                 {name:'Nigel Bosch', email:'pnb@illinois.edu',university:'University of Illinois Urbana-Champaign',country:'United States'},
