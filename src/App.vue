@@ -8,9 +8,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12 text-center">
-            <a href="http://squirrelai.com/">
-              <img src="@/assets/SquirrelAI.png" alt="">
-            </a>
+            
           </div>
         </div>
       </div>

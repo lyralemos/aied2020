@@ -15,7 +15,10 @@
                         <h3>2020 Sponsors</h3>
                         <div class="sponsors-images">
                             <img src="@/assets/google.png" alt="Google">
-                            <img src="@/assets/springer.png" alt="Google">
+                            <img src="@/assets/springer.png" alt="Springer">
+                            <a href="http://squirrelai.com/">
+                            <img src="@/assets/SquirrelAI.png" alt="">
+                            </a>
                         </div>
                         <br /><br /><br /><br />
                         <h4>
