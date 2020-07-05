@@ -13,13 +13,6 @@
                 <div class="col-12">
                     <p>
                         <b>
-                            This conference agenda is still in draft and is subject to minor changes over the next few days. 
-                            Thanks for your patience while we get all programme details finalised. 
-                            We look forward to welcoming you to AIED 2020.
-                        </b>
-                    </p>
-                    <p>
-                        <b>
                             Please note this programme is showing in BST (London, UK time) and is for reference only. 
                             The conference platform and app will show everything in your local time and you will not 
                             need to convert any timings. We are aiming to have the conference platform available for 

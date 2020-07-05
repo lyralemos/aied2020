@@ -11,16 +11,20 @@
         <section class="body">
             <div class="container">
                 <div class="col-12">
-                    <p>
-                        We are currently exploring virtual conference platforms so that we can deliver the best possible experience for 
-                        everyone during these unprecedented times. It is important to us that we offer opportunities for interaction
-                         between attendees and that we try to retain some of the spirit and energy of a physical conference.
-                    </p>
-                    <p>
-                        Once we have chosen our conference platform we will be working with all presenters and moderators to ensure
-                         everyone is comfortable with the technology and able to present their ideas with confidence. More information 
-                         to follow when we know more.
-                    </p>
+                    <div class="text-center">
+                        <div class="mb-5">
+                            <a class="mb-5" href="https://whova.com/portal/webapp/aied_202007/">
+                                <img class="img-fluid" src="@/assets/whova.jpg" />
+                            </a>
+                        </div>
+                        
+                        <a class="mr-3" href="https://apps.apple.com/br/app/whova-event-conference-app/id716979741" target="_blank">
+                            <img src="@/assets/appstore.jpg" />
+                        </a>
+                        <a href="https://play.google.com/store/apps/details?id=com.whova.event" target="_blank">
+                            <img src="@/assets/playstore.jpg" />
+                        </a>
+                    </div>
                 </div>
             </div>
             

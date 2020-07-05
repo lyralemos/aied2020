@@ -11,8 +11,8 @@
         <section class="body">
             <div class="container">
                 <div class="col-12">
-                    <p>Free access until August 3rd, 2020</p>
                     <div class="text-center">
+                        <h3>Free access until August 3rd, 2020</h3>
                         <a class="btn btn-light mr-3" href="https://link.springer.com/book/10.1007/978-3-030-52237-7" target="_blank">
                             <img src="@/assets/part1.jpeg" />
                         </a>
