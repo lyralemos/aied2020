@@ -186,6 +186,14 @@
                     </li>
                 </router-link>
                 <router-link
+                    :to="{ name: 'report' }"
+                    v-slot="{ href, route, navigate, isActive, isExactActive }"
+                    >
+                    <li :class=" ['nav-item', isExactActive && 'active']">
+                        <a class="nav-link" :href="href" @click="navigate">Report a Problem</a>
+                    </li>
+                </router-link>
+                <router-link
                     :to="{ name: 'reviewer' }"
                     v-slot="{ href, route, navigate, isActive, isExactActive }"
                     >

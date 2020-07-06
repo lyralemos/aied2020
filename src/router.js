@@ -132,6 +132,11 @@ export default new Router({
       name: 'plataform',
       component: () => import('./views/Platform.vue')
     },
+    {
+      path: '/report',
+      name: 'report',
+      component: () => import('./views/Report.vue')
+    },
   ],
   scrollBehavior (to, from, savedPosition) {
     // return desired position
