@@ -95,24 +95,40 @@
     </div>
     <div class="modal" id="modal-alert">
         <div class="modal-content">
-            <div class="head">Attention!</div>
+            <div class="head">Welcome to AIED 2020!</div>
 
-            <p>Considering the rapidly developing global situation with regards to COVID-19, Coronavirus we want to assure the AIED community that there will be a conference and proceedings for 2020.</p>
+            <p>Here is some essential information you need to know in order to make the most out of the conference.</p>
 
-            <p>It is now looking increasingly likely that the conference will be forced to take place as a virtual rather than a physical event. We are working hard to ensure that this exceeds everyone’s expectations and goes far beyond anyone’s experience of a dry webinar. Here are our requests for now:</p>
+            <ol>
+              <li>
+                Our conference platform Whova is available as <b>both a mobile app and a web page</b>. We advise that you use your desktop to watch the conference content and your mobile app to engage with the community, ask questions and send messages.
+                <ul>
+                  <li>To access the web page, click <a href="https://whova.com/portal/webapp/aied_202007/" target="_blank">here</a></li>
+                  <li>To download the mobile app, click <a href="https://whova.com/portal/aied_202007/?source=download_page">here</a></li>
+                </ul>
+                
+                
 
-            <ul>
-              <li>
-                Please keep our conference dates in your calendar. 6th - 10th July 2020
               </li>
-              <li>
-                Please do not book travel to Morocco, even if it is possible to do so
-              </li>
-              <li>
-                Check with your university or institution that they will support registration costs for remote access to the event
-              </li>
-            </ul>
-            <p>There will be many challenges to overcome, particularly how we transcend time zones and bringing people together in a meaningful way. But this has been an extraordinary year for anyone working in the AIED space and it’s important to celebrate our achievements and share our learning.</p>
+              <li>The web app is sensitive to which browser you use and <b>Whova strongly suggests you use Chrome</b>. We have trialled with both Safari and Firefox and live video streaming is glitchy. If you have the option to download Chrome, then it will greatly enhance your conference experience.</li>
+              <li><b>If you need to get in touch with the organizers, please use the 'Ask Organizers Anything' channel on the app</b>. We will get back to you as soon as possible. Alternatively, please email us at <a href="mailto:maddi.goldin@gmail.com">maddi.goldin@gmail.com</a> and <a href="mailto:claudia@suklaa.org">claudia@suklaa.org</a>. </li>
+              <li>The conference relies on two key functionalities, Zoom and Whova. We will be using Zoom for all live streaming content. Whova is where you will find all conference programme detail, ask questions and engage with the community. </li>
+              <li><b>If you are participating in a session you need to be in Zoom and will have been sent an invitation. If you are watching a session you need to be in Whova. Essentially, Zoom is the stage and Whova is the audience</b>.</li>
+              <li>Please do upload a picture and information to your profile - it will make the conference more human</li>
+              <li>Paper and poster presenters, if you do not have all the information you need - please contact us immediately at <a href="mailto:Maddi.goldin@gmail.com">Maddi.goldin@gmail.com</a>. Please do check your junk folder to see if you have received an email from us.</li>
+            </ol>
+
+            <p>We wish you a terrific conference. Please do communicate with us and fellow attendees through the app. Any problems please get in touch: <a href="mailto:claudia@suklaa.org">claudia@suklaa.org</a>.</p>
+
+            <p>With thanks</p>
+
+            <p>
+              AIED 2020<br />
+              Organizer,<br />
+              AIED 2020
+            </p>
+            
+            
 
             <a href="#" class="btn btn-primary pull-right" @click="close()">Close</a>
         </div>
@@ -172,7 +188,7 @@ export default {
   },
   mounted() {
     this.startTimer()
-    // this.lockPage()
+    this.lockPage()
   },
   created() {
   }
