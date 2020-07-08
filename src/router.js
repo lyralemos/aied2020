@@ -137,6 +137,11 @@ export default new Router({
       name: 'report',
       component: () => import('./views/Report.vue')
     },
+    {
+      path: '/speakers',
+      name: 'speakers',
+      component: () => import('./views/Speakers.vue')
+    },
   ],
   scrollBehavior (to, from, savedPosition) {
     // return desired position
