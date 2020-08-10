@@ -77,7 +77,7 @@ export default {
                 {name:'Simon Knight', email:'sjgknight@gmail.com',university:'University of Technology, Sydney',country:'Australia'},
                 {name:'Tomoko Kojiri', email:'kojiri@kansai-u.ac.jp',university:'Kansai University',country:'Japan'},
                 {name:'Amruth Kumar', email:'amruth@ramapo.edu',university:'Ramapo College of New Jersey',country:'United States'},
-                {name:'Rohit Kumar', email:'rohit.kumar@gmail.com',university:'Raytheon BBN Technologies',country:'United States'},
+                {name:'Rohit Kumar', email:'rohit.kumar@gmail.com',university:'Voice Thesis',country:'United States'},
                 {name:'Jean-Marc Labat', email:'jean-marc.labat@lip6.fr',university:'Universit Paris 6',country:'France'},
                 {name:'Sébastien Lallé', email:'lalles@cs.ubc.ca',university:'The University of British Columbia',country:'Canada'},
                 {name:'Nguyen-Thinh Le', email:'nguyen-thinh.le@hu-berlin.de',university:'Humboldt Universität zu Berlin',country:'Germany'},
