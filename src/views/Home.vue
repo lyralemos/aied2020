@@ -187,8 +187,8 @@ export default {
     }
   },
   mounted() {
-    this.startTimer()
-    this.lockPage()
+    // this.startTimer()
+    // this.lockPage()
   },
   created() {
   }
